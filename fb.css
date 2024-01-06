@@ -1,0 +1,91 @@
+body{
+    background-color: antiquewhite;
+    
+}
+.facebook{
+    font-size:50px;
+    color: blue;
+    font-weight: bolder;
+    padding: 20px;
+    
+}
+.facebool2{
+    font-size: 22px;
+    font-weight: 545;
+    text-align: left;
+
+}
+.secend{
+    width: 300px;
+    height: 300px;
+    /* border: 5px solid salmon; */
+}
+.thired{
+    /* width: 300px; */
+    /* height: 300px; */
+    /* border: 5px solid salmon; */
+    /* border-radius: 5px ; */
+    /* padding: 5px; */
+    /* margin: 5px; */
+    box-shadow: 0px 5px 17px 0px rgba(191, 163, 163, 0.75);
+    padding: 30px;
+    }
+    .Email{
+        width: 350px;
+        height: 35px;
+        border-radius: 5px;
+        border: none;
+        box-shadow: 0px 5px 5px 0px rgba(191, 163, 163, 0.75);
+    }
+    .password{
+        width: 350px;
+        height: 35px;
+        border-radius: 5px;
+        border: none;
+        box-shadow: 0px 5px 5px 0px rgba(191, 163, 163, 0.75);
+    }
+    .Forgotten{
+        color: rgb(56, 56, 223);
+    }
+    .Create{
+        display: flex;
+        justify-content: center;
+        background-color:#036c37;
+        color: white;
+        width: 250px;
+        height: 35px;
+        border-radius: 5px;
+        font-size: x-large;
+        text-align: center;
+        margin: auto;
+        
+    }
+    .login{
+        background-color: rgb(56, 56, 223);
+        color: white;
+        width: 350px;
+        height:35px;
+        border-radius: 5px;
+        border: none;
+    }
+
+.first{
+    display: flex;
+    justify-content: space-around;
+text-align: center;
+margin: 100px;
+
+}
+.fb{
+    /* background-color: white; */
+    /* width: 100%; */
+    /* padding: 10px; */
+}
+.footer{
+    height: 100px;
+    background-color: white;
+    text-align: ;
+    padding: 30px;
+    color: rgb(91, 93, 93);
+}
+
